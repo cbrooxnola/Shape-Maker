@@ -1,0 +1,11 @@
+.container > div {
+  border: solid 2px black;
+}
+
+.sm {
+  width: 30px;
+  height: 30px;
+}
+.red {
+  background-color: red;
+}
